@@ -1,3 +1,5 @@
+<div align=center>
+
 ### Hi there 👋
 
 <!--
@@ -15,9 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<div align=center>
-  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nestdream&show_icons=true&theme=vue&count_private=true">
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nestdream&layout=compact">
