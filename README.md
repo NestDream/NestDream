@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="#hi-there-">
+<!-- <a href="#hi-there-">
     <img align="center"
         src="https://github-readme-stats.vercel.app/api?username=nestdream&show_icons=true&theme=vue&count_private=true">
-</a>
+</a> -->
 <br>
 <a href="#hi-there-">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nestdream&layout=compact">
