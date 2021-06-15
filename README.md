@@ -21,11 +21,12 @@ Here are some ideas to get you started:
         src="https://github-readme-stats.vercel.app/api?username=nestdream&show_icons=true&theme=vue&count_private=true">
 </a> -->
 # Technologies and Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=3399ff)
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=MacOS&logoColor=white&color=3399ff)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C#-informational?style=flat&logo=C#&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C\#-informational?style=flat&logo=C Sharp&logoColor=white&color=2bbc8a)
 
 # GitHub Status
 <br>
