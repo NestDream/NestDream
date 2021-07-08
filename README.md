@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Li and I am a software developer with intern experience at
+My name is Li and I am a CS student with SDE intern experience at
 <a href="https://unity.com/"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/unity.svg" /></a> and 
 <a href="https://tiktok.com/"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tiktok.svg" /></a> (
 <a href="https://bytedance.com/en/"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/bytedance.svg" /></a> ).
@@ -33,8 +33,10 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=CSharp&logoColor=white&color=2bbc8a)
 <br>
 <!-- tools -->
+![](https://img.shields.io/badge/Tools-GNU%20Bash-informational?style=flat&logo=GNUBash&logoColor=white&color=ffad60)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=ffad60)
 ![](https://img.shields.io/badge/Tools-Unity-informational?style=flat&logo=Unity&logoColor=white&color=ffad60)
+
 
 # GitHub Status
 <br>
