@@ -3,6 +3,7 @@ My name is Li and I am a software developer with intern experience at
 <a href="https://unity.com/"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/unity.svg" /></a> and 
 <a href="https://tiktok.com/"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tiktok.svg" /></a> (
 <a href="https://bytedance.com/en/"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/bytedance.svg" /></a> ).
+
 <!--
 **NestDream/NestDream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,15 +19,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Technologies and Tools
+# Technologies
+<!-- OS -->
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=3399ff)
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=MacOS&logoColor=white&color=3399ff)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=3399ff)
+<br>
+<!-- Programming Languages -->
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=CPlusPlus&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=CSharp&logoColor=white&color=2bbc8a)
+<br>
+<!-- tools -->
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=ffad60)
 ![](https://img.shields.io/badge/Tools-Unity-informational?style=flat&logo=Unity&logoColor=white&color=ffad60)
 
