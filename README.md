@@ -20,22 +20,17 @@ Here are some ideas to get you started:
 -->
 
 # Technologies
-<!-- OS -->
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=3399ff)
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=MacOS&logoColor=white&color=3399ff)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=3399ff)
-<br>
-<!-- Programming Languages -->
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=CPlusPlus&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=CSharp&logoColor=white&color=2bbc8a)
-<br>
-<!-- tools -->
-![](https://img.shields.io/badge/Tools-GNU%20Bash-informational?style=flat&logo=GNUBash&logoColor=white&color=ffad60)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=ffad60)
-![](https://img.shields.io/badge/Tools-Unity-informational?style=flat&logo=Unity&logoColor=white&color=ffad60)
+![](https://img.shields.io/badge/-Linux-informational?style=flat&logo=Linux&logoColor=white&color=3399ff)
+![](https://img.shields.io/badge/-MacOS-informational?style=flat&logo=MacOS&logoColor=white&color=3399ff)
+![](https://img.shields.io/badge/-Windows-informational?style=flat&logo=Windows&logoColor=white&color=3399ff)
+![](https://img.shields.io/badge/-Java-informational?style=flat&logo=Java&logoColor=white&color=008000)
+![](https://img.shields.io/badge/-Python-informational?style=flat&logo=Python&logoColor=white&color=008000)
+![](https://img.shields.io/badge/-C++-informational?style=flat&logo=CPlusPlus&logoColor=white&color=008000)
+![](https://img.shields.io/badge/-Go-informational?style=flat&logo=Go&logoColor=white&color=008000)
+![](https://img.shields.io/badge/-C%23-informational?style=flat&logo=CSharp&logoColor=white&color=008000)
+![](https://img.shields.io/badge/-GNU%20Bash-informational?style=flat&logo=GNUBash&logoColor=white&color=FFA500)
+![](https://img.shields.io/badge/-Docker-informational?style=flat&logo=Docker&logoColor=white&color=FFA500)
+![](https://img.shields.io/badge/-Unity-informational?style=flat&logo=Unity&logoColor=white&color=FFA500)
 
 
 # GitHub Status
