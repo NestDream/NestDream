@@ -1,8 +1,11 @@
 # Hi there 👋
-My name is Li and I am a CS student with SDE intern experience at
+
+My name is Li, and I'm a CS student who has interned as an SDE at 
 <a href="https://unity.com/"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/unity.svg" /></a> and 
 <a href="https://tiktok.com/"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tiktok.svg" /></a> (
 <a href="https://bytedance.com/en/"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/bytedance.svg" /></a> ).
+
+I enjoy programming and am eager to join the open-source community.
 
 <!--
 **NestDream/NestDream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,6 +34,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-GNU%20Bash-informational?style=flat&logo=GNUBash&logoColor=white&color=FFA500)
 ![](https://img.shields.io/badge/-Docker-informational?style=flat&logo=Docker&logoColor=white&color=FFA500)
 ![](https://img.shields.io/badge/-Unity-informational?style=flat&logo=Unity&logoColor=white&color=FFA500)
+![](https://img.shields.io/badge/-Git-informational?style=flat&logo=Git&logoColor=white&color=black)
+![](https://img.shields.io/badge/-Vim-informational?style=flat&logo=Vim&logoColor=white&color=black)
 
 
 # GitHub Status
