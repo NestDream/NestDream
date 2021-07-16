@@ -36,6 +36,9 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Unity-informational?style=flat&logo=Unity&logoColor=white&color=FFA500)
 ![](https://img.shields.io/badge/-Git-informational?style=flat&logo=Git&logoColor=white&color=black)
 ![](https://img.shields.io/badge/-Vim-informational?style=flat&logo=Vim&logoColor=white&color=black)
+![](https://img.shields.io/badge/-.net-informational?style=flat&logo=dotnet&logoColor=white&color=red)
+![](https://img.shields.io/badge/-Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=red)
+![](https://img.shields.io/badge/-Angular-informational?style=flat&logo=angular&logoColor=white&color=red)
 
 
 # GitHub Status
