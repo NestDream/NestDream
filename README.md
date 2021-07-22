@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-.net-informational?style=flat&logo=dotnet&logoColor=white&color=red)
 ![](https://img.shields.io/badge/-Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=red)
 ![](https://img.shields.io/badge/-Angular-informational?style=flat&logo=angular&logoColor=white&color=red)
+![](https://img.shields.io/badge/-Django-informational?style=flat&logo=Django&logoColor=white&color=red)
 <!-- ![](https://img.shields.io/badge/-Swagger-informational?style=flat&logo=swagger&logoColor=white&color=red) -->
 
 
