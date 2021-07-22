@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-GNU%20Bash-informational?style=flat&logo=GNUBash&logoColor=white&color=FFA500)
 ![](https://img.shields.io/badge/-Docker-informational?style=flat&logo=Docker&logoColor=white&color=FFA500)
 ![](https://img.shields.io/badge/-Unity-informational?style=flat&logo=Unity&logoColor=white&color=FFA500)
+![](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=FFA500)
+![](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=FFA500)
 ![](https://img.shields.io/badge/-Git-informational?style=flat&logo=Git&logoColor=white&color=black)
 ![](https://img.shields.io/badge/-Vim-informational?style=flat&logo=Vim&logoColor=white&color=black)
 ![](https://img.shields.io/badge/-.net-informational?style=flat&logo=dotnet&logoColor=white&color=red)
