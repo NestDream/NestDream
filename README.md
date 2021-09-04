@@ -8,7 +8,7 @@ My name is Li, and I'm a CS student who has interned as an SDE at
 
 I enjoy programming and am eager to join the open-source community.
 
-I am actively looking for 2020 Summer Internships, check out my <a href="https://linkedin.com/in/li-guo-cmu">LinkedIn</a> for more about me!
+I am actively looking for 2022 Summer Internship Opportunity in United States, check out my <a href="https://linkedin.com/in/li-guo-cmu">LinkedIn</a> for more about me!
 
 <!--
 **NestDream/NestDream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
