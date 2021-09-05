@@ -1,10 +1,10 @@
 # Hi there, welcome to NestDream 👋 
 
 My name is Li, and I'm a CS student who has interned as an SDE at 
-<a href="https://apple.com/"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/apple.svg" /></a>, 
-<a href="https://unity.com/"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/unity.svg" /></a> and 
-<a href="https://tiktok.com/"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tiktok.svg" /></a> (
-<a href="https://bytedance.com/en/"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/bytedance.svg" /></a> ).
+<a href="https://apple.com/"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/apple.svg" /> Apple</a>, 
+<a href="https://unity.com/"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/unity.svg" /> Unity</a> and 
+<a href="https://tiktok.com/"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tiktok.svg" /> TikTok</a> (
+<a href="https://bytedance.com/en/"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/bytedance.svg" /> ByteDance</a> ).
 
 I enjoy programming and am eager to join the open-source community.
 
