@@ -46,15 +46,17 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Angular-informational?style=flat&logo=angular&logoColor=white&color=red)
 ![](https://img.shields.io/badge/-Django-informational?style=flat&logo=Django&logoColor=white&color=red)
 <!-- ![](https://img.shields.io/badge/-Swagger-informational?style=flat&logo=swagger&logoColor=white&color=red) -->
-
-
+<!-- 
 # GitHub Status
-<br>
-<a href="#hi-there-">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nestdream&layout=compact">
-    <img align="left"
-        src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnestdream&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
-</a>
-<br>
+<a href="#github-status">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nestdream&layout=compact">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnestdream&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
+</a> -->
+
+#  Contact
+<a href="https://linkedin.com/in/li-guo-cmu"><img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" /></a> 
+<a href="https://stackoverflow.com/users/9739569/tomari"><img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/stackoverflow.svg" /></a>
+<a href="mailto:alexguo529@gmail.com"><img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" /></a>
 
 
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnestdream&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
