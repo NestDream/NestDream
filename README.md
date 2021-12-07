@@ -6,9 +6,13 @@ My name is Li, and I'm a CS student who has interned as an SDE at
 <a href="https://tiktok.com/"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tiktok.svg" /> TikTok</a> (
 <a href="https://bytedance.com/en/"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/bytedance.svg" /> ByteDance</a> ).
 
-I enjoy programming and am eager to join the open-source community.
+I enjoy programming and am eager to join the open-source community. 
 
-I am actively looking for 2022 Summer Internship Opportunity in United States, check out my <a href="https://linkedin.com/in/li-guo-cmu"><img height="12" width="12" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" /> LinkedIn</a> for more about me!
+I am studying at <a href="https://cmu.edu/">Carnegie Mellon University</a> as a graduate student, focusing on cloud computing, computer system networks, and mobile computing. I will graduate in December, 2022.
+
+Previously, I received my B.E. in Software Engineering from <a href="https://en.nankai.edu.cn/"> Nankai University</a>.
+
+I am actively looking for 2022 Summer Internship/2022 Fall full-time Opportunities in United States, check out my <a href="https://linkedin.com/in/li-guo-cmu"><img height="12" width="12" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" /> LinkedIn</a> for more about me!
 
 <!--
 **NestDream/NestDream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
