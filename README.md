@@ -1,6 +1,6 @@
 # Hi there, welcome to NestDream 👋 
 
-My name is Li, and I'm a CS student who has interned as an SDE at 
+My name is Li, and I'm a CS student interning at <a href="https://apple.com/"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoft.svg" /> Microsoft</a> and has previously interned as an SDE at 
 <a href="https://apple.com/"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/apple.svg" /> Apple</a>, 
 <a href="https://unity.com/"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/unity.svg" /> Unity</a> and 
 <a href="https://tiktok.com/"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tiktok.svg" /> TikTok</a> (
@@ -8,11 +8,11 @@ My name is Li, and I'm a CS student who has interned as an SDE at
 
 I enjoy programming and am eager to join the open-source community. 
 
-I am studying at <a href="https://cmu.edu/">Carnegie Mellon University</a> as a graduate student, focusing on cloud computing, computer system networks, and mobile computing. I will graduate in December, 2022.
+I am studying at <a href="https://cmu.edu/">Carnegie Mellon University</a> as a graduate student, focusing on cloud computing, computer system networks, and information networking. I will graduate in December, 2022.
 
 Previously, I received my B.E. in Software Engineering from <a href="https://en.nankai.edu.cn/"> Nankai University</a>.
 
-Do not hesitate to contact me if you have any opportunities in United States to share, check out my <a href="https://linkedin.com/in/li-guo-cmu"><img height="12" width="12" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" /> LinkedIn</a> for more about me!
+Do not hesitate to contact me if you have any full-time SDE opportunities in the United States to share, check out my <a href="https://linkedin.com/in/li-guo-cmu"><img height="12" width="12" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" /> LinkedIn</a> for more about me!
 
 <!--
 **NestDream/NestDream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
