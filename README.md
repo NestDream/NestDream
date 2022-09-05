@@ -1,13 +1,13 @@
 # Hi there, welcome to NestDream 👋 
 
-My name is Li, and I'm a CS student interning at <a href="https://microsoft.com/"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoft.svg" /> Microsoft</a> and has previously interned as an SDE at 
-<a href="https://apple.com/"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/apple.svg" /> Apple</a>,  <a href="https://unity.com/"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/unity.svg" /> Unity</a> and <a href="https://tiktok.com/"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tiktok.svg" /> TikTok</a> (<a href="https://bytedance.com/en/"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/bytedance.svg" /> ByteDance</a> ).
+My name is Li Guo. I previously interned as an SDE at <a href="https://microsoft.com/"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoft.svg" /> Microsoft</a>, 
+<a href="https://apple.com/"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/apple.svg" /> Apple</a>,  <a href="https://unity.com/"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/unity.svg" /> Unity</a> and <a href="https://tiktok.com/"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tiktok.svg" /> TikTok</a> (<a href="https://bytedance.com/en/"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/bytedance.svg" /> ByteDance</a> ). 
 
 - I take pleasure in programming and am excited to join the open-source community.
 
 - I'm currently in Redmond, Washington. I will return to Pittsburgh, Pennsylvania, after August to complete my master's degree.
 
-- I am studying at <a href="https://cmu.edu/">Carnegie Mellon University</a> as a graduate student, focusing on cloud computing, computer system networks, and information networking. I will graduate in December, 2022.
+- I am studying at <a href="https://cmu.edu/"><img height="22" width="22" src="https://www.cmu.edu/brand/downloads/assets/images/seal-r-600x600-min.jpg" />Carnegie Mellon University</a> as a graduate student, focusing on cloud computing, computer system networks, and information networking. I will graduate in December, 2022.
 
 - I received my B.E. in Software Engineering from <a href="https://en.nankai.edu.cn/"> Nankai University</a>.
 
