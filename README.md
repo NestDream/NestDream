@@ -6,7 +6,7 @@ My name is Li Guo. I am an SDE at <a href="https://microsoft.com/"><img height="
 
 - I'm currently in Redmond, Washington.
 
-- I received my master degree at <a href="https://cmu.edu/"><img height="22" width="22" src="https://www.cmu.edu/brand/downloads/assets/images/seal-r-600x600-min.jpg" />Carnegie Mellon University</a>, with a focus on cloud computing, computer system networks, and information networking.
+- I received my M.S. in Information Networking at <a href="https://cmu.edu/"><img height="22" width="22" src="https://www.cmu.edu/brand/downloads/assets/images/seal-r-600x600-min.jpg" />Carnegie Mellon University</a>, with a focus on cloud computing, computer system networks, and information networking.
 
 - I received my B.E. in Software Engineering from <a href="https://en.nankai.edu.cn/"> Nankai University</a>.
 
